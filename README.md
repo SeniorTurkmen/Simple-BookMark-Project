@@ -1,5 +1,5 @@
 # Simple-BookMark-Project
-Basit Bookmark projesi
+Javascript ile yazmış olduğum basit BookMark Projemde Bootstrap kullanarak "pure-js" kullanılmıştır.
 
 ![1](./images/1.png)
 ![2](./images/2.png)
