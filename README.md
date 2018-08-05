@@ -6,7 +6,7 @@ Basit Bookmark projesi
 
 
 # Contact
-> [Mail](mustafatrkmn@yandex.com).
+> [Mail](mailto:mustafatrkmn@yandex.com).
 > [İnstagram](https://www.instagram.com/seniorturkmen).
 > [Linkedin](https://www.linkedin.com/seniorturkmen).
 > [Website](http://www.mustafatrkmn.com).
